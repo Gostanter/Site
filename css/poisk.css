@@ -1,0 +1,6 @@
+/*ul*/.list-columns {
+    -webkit-column-count:2;
+    -moz-column-count:2;
+    column-count:2;
+    height:100px; /* Важно задать высоту, чтобы увидеть разделение на колонки */
+  }
